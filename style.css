@@ -3,7 +3,7 @@
     margin: 0;
     font-family: sans-serif;
 }
-body{overflow-x: hidden;}
+body{overflow: hidden;}
 .container{
     background-color: #000;
     min-height: 100vh;
